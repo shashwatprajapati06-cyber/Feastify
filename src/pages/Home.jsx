@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import Nav from '../components/Nav';
 import { Categories } from '../Categories';
-import Card from '../components/card';
+import Card from '../components/Card';
 import { food_items } from '../food.js';
 import { dataContext } from '../context/UserContext';
 import { RxCross2 } from "react-icons/rx";
