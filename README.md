@@ -1,20 +1,118 @@
-<<<<<<< HEAD
-# React + Vite
+# 🍽️ Feastify – Food Delivery App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Feastify is a stylish and responsive food delivery frontend application developed using React.js and Tailwind CSS.  
+The project provides a smooth user experience for browsing food items, filtering categories, and managing cart functionality.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- Dynamic food listing
+- Category based filtering
+- Add to cart functionality
+- Increase / decrease item quantity
+- Remove items from cart
+- Smooth cart sidebar animation
+- Responsive modern UI
+- Fast performance with Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧑‍💻 Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Feastify
->>>>>>> 732c381b4c95bd8359ba138a62c6b5722930d0b8
+- React.js
+- Tailwind CSS
+- JavaScript (ES6)
+- Vite
+- React Icons
+
+---
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/shashwatprajapati06-cyber/Feastify.git
+```
+
+Move into the project directory:
+
+```bash
+cd Feastify
+```
+
+Install all dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📁 Project Structure
+
+```bash
+src/
+ ├── components/
+ ├── context/
+ ├── assets/
+ ├── pages/
+ ├── food.js
+ ├── Categories.js
+```
+
+---
+
+## 🎯 Learning Outcomes
+
+This project helped in learning:
+
+- React Components
+- Props
+- useState
+- useContext
+- Conditional Rendering
+- Array Mapping
+- State Management
+- Tailwind CSS
+- Cart Functionality
+
+---
+
+## 🚀 Future Scope
+
+- Backend Integration
+- User Authentication
+- Payment Gateway
+- Order History
+- Search Functionality
+- Dark Mode
+- Firebase / MongoDB Integration
+
+---
+
+## 📸 Preview
+
+https://feastify26.netlify.app/
+
+---
+
+## 👨‍💻 Developer
+
+Developed by Shashwat Prajapati
+
+GitHub:
+https://github.com/shashwatprajapati06-cyber
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project, please give it a ⭐ on GitHub.
